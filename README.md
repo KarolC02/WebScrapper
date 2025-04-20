@@ -1,6 +1,6 @@
 # 🌤️ Historical Weather Scraper
 
-This Python project scrapes historical **daily maximum temperatures** for selected cities from [Weather Underground](https://www.wunderground.com/) over a specified date range. It stores the data in CSV files — one file per city — in Celsius.
+This Python project scrapes historical **daily maximum temperatures** for selected cities from [Weather Underground](https://www.wunderground.com/) over a specified date range. It stores the data in CSV files — one file per city — in Farhenheit.
 
 ---
 
